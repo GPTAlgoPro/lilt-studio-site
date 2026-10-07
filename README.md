@@ -1,7 +1,7 @@
-# Lilt Studio website
+# 律动 · Lilt Studio
 
-Public marketing, support, privacy and terms pages in16 languages for Lilt Studio. The upcoming1.2.0 app creates instrumental music and vocal songs on supported Apple devices using one complete-work request. The app remains in TestFlight evaluation; musical quality and minimum-memory-device performance are still being evaluated.
+The public product, support, privacy and terms website in 16 languages. This repository contains generated static pages and genuine build16 native iPhone/iPad UI screenshots.
 
-Three successful free creations up to30 seconds each. Longer target durations, further creation, editing, sharing and export require the one-time Lilt Pro purchase. No subscription. Original lyrics are preserved as input; actual duration and singing can vary. Model-based continuation, stem separation and repaint/outpaint are not advertised.
+Music creation runs locally in the native App; this website does not generate audio. App Store availability is shown by Apple. Original screenshots remain available from the gallery; responsive previews reduce page download size.
 
-This repository contains only public static pages, styles and images. It contains no App source, model weights, credentials, private release evidence or user recordings.
+Hosted at https://gptalgopro.github.io/lilt-studio-site/ .
