@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /lilt-studio-site/
+Sitemap: https://gptalgopro.github.io/lilt-studio-site/sitemap.xml
