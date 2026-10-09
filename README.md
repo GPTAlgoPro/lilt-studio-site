@@ -1,7 +1,9 @@
-# 律动 · Lilt Studio
+# Lilt Studio website
 
-The public product, support, privacy and terms website in 16 languages. This repository contains generated static pages and genuine build16 native iPhone/iPad UI screenshots.
+Native music creation for iPhone, iPad and Apple Silicon Mac. Current site imagery comes from genuine build 23 app views in 17 interface languages, including Cantonese Traditional.
 
-Music creation runs locally in the native App; this website does not generate audio. App Store availability is shown by Apple. Original screenshots remain available from the gallery; responsive previews reduce page download size.
+Free creation includes five instrumentals and five vocal songs, independently counted, up to three minutes each. Resource downloads and imports are free. Further creations, longer targets, editing, audio sharing and export require lifetime Pro.
 
-Hosted at https://gptalgopro.github.io/lilt-studio-site/ .
+The new version is available for internal TestFlight testing; formal App Review and musical-quality acceptance are separate. Singing-language selection does not translate existing lyrics.
+
+律动官网已更新为真实新版界面和现行试用规则：纯音乐、歌曲各五首，每首最长三分钟；模型下载与导入免费。正式审核与听感验收分别进行。
